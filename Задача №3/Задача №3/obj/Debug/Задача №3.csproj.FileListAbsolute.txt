@@ -1,0 +1,9 @@
+D:\visual проекты\Задача №3\Задача №3\bin\Debug\Задача №3.exe.config
+D:\visual проекты\Задача №3\Задача №3\bin\Debug\Задача №3.exe
+D:\visual проекты\Задача №3\Задача №3\bin\Debug\Задача №3.pdb
+D:\visual проекты\Задача №3\Задача №3\obj\Debug\Задача__3.Form1.resources
+D:\visual проекты\Задача №3\Задача №3\obj\Debug\Задача__3.Properties.Resources.resources
+D:\visual проекты\Задача №3\Задача №3\obj\Debug\Задача №3.csproj.GenerateResource.cache
+D:\visual проекты\Задача №3\Задача №3\obj\Debug\Задача №3.csproj.CoreCompileInputs.cache
+D:\visual проекты\Задача №3\Задача №3\obj\Debug\Задача №3.exe
+D:\visual проекты\Задача №3\Задача №3\obj\Debug\Задача №3.pdb
